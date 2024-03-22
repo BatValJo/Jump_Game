@@ -64,7 +64,7 @@ start_time = 0
 score = 0
 
 # Font
-text_style = pygame.font.Font('Graphics and font/Font/Pixeltype.ttf', 50)
+text_style = pygame.font.Font('../../Present/Game/Assets/Font/Pixeltype.ttf', 50)
 
 # Sky and ground
 sky_surface = pygame.image.load('Graphics and font/Background/Sky.png').convert()
